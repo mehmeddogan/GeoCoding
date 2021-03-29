@@ -1,0 +1,13 @@
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.csprojAssemblyReference.cache
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.Form1.resources
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.Properties.Resources.resources
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.csproj.GenerateResource.cache
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\bin\Debug\GeoCoding.exe.config
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\bin\Debug\GeoCoding.exe
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\bin\Debug\GeoCoding.pdb
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.exe
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.pdb
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\bin\Debug\System.Json.dll
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\bin\Debug\System.Json.xml
+C:\Users\Master\source\repos\GeoCoding\GeoCoding\obj\Debug\GeoCoding.csproj.CopyComplete
